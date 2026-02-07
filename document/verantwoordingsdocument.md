@@ -32,7 +32,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 ### 1 - Analyseren van algoritmes
 
-> Student **beargumenteert** of een in technische taal beschreven fundamenteel algoritme geschikt is voor gegeven context door zowel te redeneren in termen van symbolische logica als het uitvoeren van een complexiteitsanalyse.
+> Student analyseert een in technische taal beschreven fundamenteel algoritme en beargumenteert of deze geschikt is voor gegeven context door zowel te redeneren in termen van symbolische logica als het uitvoeren van een complexiteitsanalyse.
 
 > Kennis & vaardigheden: propositielogica, predicaatlogica, algoritmecomplexiteit,  discrete wiskunde, pseudocode, verzamelingenleer, logisch modelleren
 
@@ -55,7 +55,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 ### 2 - Procedureel en object-georiënteerd programmeren
 
-> Student **schrijft** effectieve code, zowel procedureel als  object-georiënteerd. Deze code is gestructureerd, gedocumenteerd en getest, en volgt de conventies van de programmeertaal.
+> Student realiseert effectieve code, zowel procedureel als object-georiënteerd. Deze code is gestructureerd, gedocumenteerd en getest, en volgt de conventies van de programmeertaal.
 
 > Kennis & vaardigheden: software-architectuur, procedureel programmeren, object-georiënteerd programmeren, functionele decompositie, statically typed talen (C++), programmeerstijl, commentaar, documentatie, testen
 
@@ -73,7 +73,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 ### 3 - Computerarchitectuur
 
-> Student **houdt** bij keuze en realisatie van algoritmes **rekening** **met** beperkende eigenschappen van hardwarecomponenten van computersystemen.
+> Student analyseert beperkende eigenschappen van hardwarecomponenten van computersystemen ten behoeve van het realiseren van efficiënte software.
 
 > Kennis & vaardigheden: beperkte bronnen, functioneren van een computer, computerprocessen, geheugenmanagement
 
@@ -91,7 +91,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 ### 4 - Coding skills
 
-> Student compileert eigen en bestaande code, voert deze code uit, verhelpt fouten en beheert versies, waarbij de student gangbare software development tools **gebruikt**.
+> Student beheert ontwikkelomgevingen en codebases. De student compileert eigen en bestaande code, voert deze code uit, verhelpt fouten en beheert versies, waarbij de student gangbare software development tools gebruikt.
 
 > Kennis & vaardigheden: besturingssystemen, ontwikkelomgevingen (IDE), debugger, remote werken, command line interface (CLI), Git, compileren
 
@@ -108,7 +108,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 ### 5 - Datastructuren
 
-> Student **selecteert** en **implementeert** passende datastructuren en **beargumenteert** daarbij voor- en nadelen van verschillende alternatieven.
+> Student adviseert en realiseert passende datastructuren en beargumenteert daarbij voor- en nadelen van verschillende alternatieven.
 
 > Kennis & vaardigheden: datastructuren selecteren, datastructuren implementeren
 
@@ -170,7 +170,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 ### 8 - Interactief vermogen
 
-> De student werkt onder begeleiding en passend binnen de context in een team samen aan een duidelijke taak en/of vanuit een duidelijke rol, waarbij deze anderen constructief en passend bij de situatie aanspreekt op hun gedrag en aan de hand van instructies of formats mondeling en/of schriftelijk communiceert met de opdrachtgever(s) op tenminste 3F/B2 niveau.
+> De student werkt onder begeleiding en passend binnen de context in een team samen aan een duidelijke taak en/of vanuit een duidelijke rol, waarbij deze anderen constructief en passend bij de situatie aanspreekt op hun gedrag en aan de hand van instructies of formats mondeling en/of schriftelijk communiceert met de opdrachtgever(s) op tenminste 3F/B2 niveau. De student houdt rekening met de eisen en wensen van de opdrachtgever.
 
 [comment]: # (Instructie: Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:)
 [comment]: # (- Je persoonlijke Gitgeschiedenis. Hierbij kijken we naar frequentie van Git commits, en kwaliteit van commit messages;)
