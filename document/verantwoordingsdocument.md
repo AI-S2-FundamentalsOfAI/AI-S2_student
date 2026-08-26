@@ -25,12 +25,100 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 [comment]: # (Inleiding beslismoment)
 
 
-## Leeruitkomsten
+## Professionele vermogens
+
+[comment]: # (Instructie: benoem per leeruitkomst de portfolio-items die deze leeruitkomst geheel of gedeeltelijk aantonen en die je afgelopen periode hebt opgeleverd. Let op: een portfolio-item telt alleen mee als deze aan de eisen voldoet, zoals beschreven op Canvas. Kort samengevat is een portfolio-item een product ingeleverd op Canvas, waarbij de verkregen feedback is verwerkt en die geaccordeerd is door een docent. Geef bij elk portfolio-item 1. de naam; 2. een link naar de inlevering op Canvas; 3. een link naar code in een repository, indien van toepassing; 4. een korte toelichting. Een toelichting is doorgaans *niet* nodig als je een voorgedefinieerd portfolio-item op niveau hebt voltooid. Scheid de peilmomenten met een horizontale streep.)
+[comment]: # (Let op: voor deze vier leeruitkomsten mag je ook in de toelichting situaties opnemen in groepsverband die wij bijvoorbeeld niet hebben gezien. Als je denkt dat je een situatie bijzonder professioneel hebt afgehandeld, lezen we graag jouw kant van dat verhaal. Als we aanvullende vragen hierover hebben, brengen we ze ter sprake tijdens het persoonlijke gesprek.)
+
+### 1 - Onderzoekend vermogen
+
+> De student verzamelt onder begeleiding vanuit een nieuwsgierige en kritische houding volgens duidelijke instructies relevante informatie om hiermee een gegeven, enkelvoudig en duidelijk afgebakend vraagstuk op gestructureerde wijze op te lossen.
+
+[comment]: # (Naast de toepasselijke portfolio-items kijken we bij de beoordeling van dit vermogen naar de volgende indicatoren:)
+[comment]: # (Documentatie van code, inclusief bronvermelding;)
+[comment]: # (Uitgevoerde research en learning stories;)
+[comment]: # (Live demonstratie van onderzoeksvaardigheden ten overstaan van de begeleidende docent.)
+
+[comment]: # (Portfolio-items peilmoment 1)
+
+---
+
+[comment]: # (Portfolio-items peilmoment 2)
+
+---
+
+[comment]: # (Portfolio-items beslismoment)
+
+
+### 2 - Organiserend vermogen
+
+> De student stelt op basis van een teamplanning onder begeleiding een eenvoudige planning voor zichzelf op ten behoeve van de uitvoering van een gegeven, eenvoudige taak met een zekere doorlooptijd, rekening houdend met gegeven standaarden, door deze op te delen in kleinere (deel)taken, past deze planning indien nodig aan naar aanleiding van nieuwe (kleine) gebeurtenissen en licht eventuele aanpassingen toe.
+
+[comment]: # (Naast de toepasselijke portfolio-items kijken we bij de beoordeling van dit vermogen naar de volgende indicatoren:)
+[comment]: # (- De planning van het team als geheel. Hier kijken we naar relevantie, haalbaarheid en werkverdeling onder de groepsleden;)
+[comment]: # (- Jouw stories op het backlog. Hier kijken we naar: zijn alle velden ingevuld? Zijn er subtaken toegevoegd waar relevant? Is deze story geüpdatet in de loop van de Sprints?)
+[comment]: # (- De documentatie van de Sprint Review en Retrospective. Hier kijken we in beginsel naar jullie peer assessments, zeker als plannen een "aangekaart onderwerp" is.)
+
+[comment]: # (Portfolio-items peilmoment 1)
+
+---
+
+[comment]: # (Portfolio-items peilmoment 2)
+
+---
+
+[comment]: # (Portfolio-items beslismoment)
+
+
+
+### 3 - Interactief vermogen
+
+> De student werkt onder begeleiding en passend binnen de context in een team samen aan een duidelijke taak en/of vanuit een duidelijke rol, waarbij deze anderen constructief en passend bij de situatie aanspreekt op hun gedrag en aan de hand van instructies of formats mondeling en/of schriftelijk communiceert met de opdrachtgever(s) op tenminste 3F/B2 niveau. De student houdt rekening met de eisen en wensen van de opdrachtgever.
+
+[comment]: # (Naast de toepasselijke portfolio-items kijken we bij de beoordeling van dit vermogen naar de volgende indicatoren:)
+[comment]: # (- Je persoonlijke Gitgeschiedenis. Hierbij kijken we naar frequentie van Git commits, en kwaliteit van commit messages;)
+[comment]: # (- De documentatie van de Sprint Review en Retrospective. Hier focussen we in beginsel op jullie peer assessments;)
+[comment]: # (- Hoe vaak je aanwezig, en hoe je bijdrage was, bij de vaste Scrumsessies.)
+[comment]: # (In het bijzonder is hier je bijdrage aan de demo's relevant. We houden hier zelf notities over bij ten tijde van de demo's. Dit wordt ook teruggekoppeld tijdens de demo's, en hier moeten jullie dus zelf bij meeschrijven.)
+
+[comment]: # (Portfolio-items peilmoment 1)
+
+---
+
+[comment]: # (Portfolio-items peilmoment 2)
+
+---
+
+[comment]: # (Portfolio-items beslismoment)
+
+
+### 4 - (Zelf)lerend vermogen
+
+> Student formuleert volgens instructie persoonlijke ambities en kwaliteiten en gebruikt andermans feedback om beargumenteerde keuzes te maken met het oog op de studieloopbaan. Student reflecteert op het eigen handelen en/of het handelen van individuele teamleden, haalt hiervoor feedback op bij peers en docenten, stelt eigen sterktes en verbeterpunten vast en vertaalt verbeterpunten naar concrete acties.
+
+[comment]: # (Naast de toepasselijke portfolio-items kun je hier elke keer dat je dit document inlevert schriftelijk antwoord geven op de volgende vragen, om je portfolio aan te dikken:)
+[comment]: # (- Wat voor een soort functie binnen de ICT zou je graag willen bekleden na je studie?)
+[comment]: # (- Is dit veranderd sinds de start van je opleiding en/of het vorige peilmoment?)
+[comment]: # (- Hoe heb je tot dusver taken kunnen oppakken binnen het project, die passen bij die functie?)
+[comment]: # (- Hoe kun je tot aan het volgende peilmoment meer van dat soort taken naar je toe trekken?)
+[comment]: # (- Wat zou voor jou het droombedrijf zijn om stage te lopen, en waarom?)
+
+[comment]: # (Portfolio-items peilmoment 1)
+
+---
+
+[comment]: # (Portfolio-items peilmoment 2)
+
+---
+
+[comment]: # (Portfolio-items beslismoment)
+
+
+## Inhoudelijke leeruitkomsten
 
 [comment]: # (Instructie: benoem per leeruitkomst de portfolio-items die deze leeruitkomst geheel of gedeeltelijk aantonen en die je afgelopen periode hebt opgeleverd. Let op: een portfolio-item telt alleen mee als deze aan de eisen voldoet, zoals beschreven op Canvas. Kort samengevat is een portfolio-item een product ingeleverd op Canvas, waarbij de verkregen feedback is verwerkt en die geaccordeerd is door een docent. Geef bij elk portfolio-item 1. de naam; 2. een link naar de inlevering op Canvas; 3. een link naar code in een repository, indien van toepassing; 4. een korte toelichting. Een toelichting is doorgaans *niet* nodig als je een voorgedefinieerd portfolio-item op niveau hebt voltooid. Scheid de peilmomenten met een horizontale streep.)
 
-
-### 1 - Analyseren van algoritmes
+### 5 - Analyseren van algoritmes
 
 > Student analyseert een in technische taal beschreven fundamenteel algoritme en beargumenteert of deze geschikt is voor gegeven context door zowel te redeneren in termen van symbolische logica als het uitvoeren van een complexiteitsanalyse.
 
@@ -53,7 +141,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 
 
-### 2 - Procedureel en object-georiënteerd programmeren
+### 6 - Procedureel en object-georiënteerd programmeren
 
 > Student realiseert effectieve code, zowel procedureel als object-georiënteerd. Deze code is gestructureerd, gedocumenteerd en getest, en volgt de conventies van de programmeertaal.
 
@@ -71,7 +159,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 
 
-### 3 - Computerarchitectuur
+### 7 - Computerarchitectuur
 
 > Student analyseert beperkende eigenschappen van hardwarecomponenten van computersystemen ten behoeve van het realiseren van efficiënte software.
 
@@ -89,7 +177,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 
 
-### 4 - Coding skills
+### 8 - Coding skills
 
 > Student beheert ontwikkelomgevingen en codebases. De student compileert eigen en bestaande code, voert deze code uit, verhelpt fouten en beheert versies, waarbij de student gangbare software development tools gebruikt.
 
@@ -106,102 +194,11 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 [comment]: # (Portfolio-items beslismoment)
 
 
-### 5 - Datastructuren
+### 9 - Datastructuren
 
 > Student adviseert en realiseert passende datastructuren en beargumenteert daarbij voor- en nadelen van verschillende alternatieven.
 
 > Kennis & vaardigheden: datastructuren selecteren, datastructuren implementeren
-
-[comment]: # (Portfolio-items peilmoment 1)
-
----
-
-[comment]: # (Portfolio-items peilmoment 2)
-
----
-
-[comment]: # (Portfolio-items beslismoment)
-
-
-
-### 6 - Onderzoekend vermogen
-
-> De student verzamelt onder begeleiding vanuit een nieuwsgierige en kritische houding volgens duidelijke instructies relevante informatie om hiermee een gegeven, enkelvoudig en duidelijk afgebakend vraagstuk op gestructureerde wijze op te lossen.
-
-[comment]: # (Instructie: Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:)
-[comment]: # (Secties van analysedocumenten van algoritmes;)
-[comment]: # (Rapportage van uitgevoerd literatuuronderzoek;)
-[comment]: # (Documentatie van code, inclusief bronvermelding;)
-[comment]: # (Uitgevoerde research en learning stories;)
-[comment]: # (Live demonstratie van onderzoeksvaardigheden ten overstaan van de begeleidende docent.)
-
-
-[comment]: # (Portfolio-items peilmoment 1)
-
----
-
-[comment]: # (Portfolio-items peilmoment 2)
-
----
-
-[comment]: # (Portfolio-items beslismoment)
-
-
-### 7 - Organiserend vermogen
-
-> De student stelt op basis van een teamplanning onder begeleiding een eenvoudige planning voor zichzelf op ten behoeve van de uitvoering van een gegeven, eenvoudige taak met een zekere doorlooptijd, rekening houdend met gegeven standaarden, door deze op te delen in kleinere (deel)taken, past deze planning indien nodig aan naar aanleiding van nieuwe (kleine) gebeurtenissen en licht eventuele aanpassingen toe.
-
-[comment]: # (Instructie: Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:)
-[comment]: # (- De planning van het team als geheel. Hier kijken we naar relevantie, haalbaarheid en werkverdeling onder de groepsleden;)
-[comment]: # (- Jouw stories op het backlog. Hier kijken we naar: zijn alle velden ingevuld? Zijn er subtaken toegevoegd waar relevant? Is deze story geüpdatet in de loop van de Sprints?)
-[comment]: # (- De documentatie van de Sprint Review en Retrospective. Hier kijken we in beginsel naar jullie peer assessments, zeker als plannen een "aangekaart onderwerp" is.)
-
-[comment]: # (Portfolio-items peilmoment 1)
-
----
-
-[comment]: # (Portfolio-items peilmoment 2)
-
----
-
-[comment]: # (Portfolio-items beslismoment)
-
-
-
-### 8 - Interactief vermogen
-
-> De student werkt onder begeleiding en passend binnen de context in een team samen aan een duidelijke taak en/of vanuit een duidelijke rol, waarbij deze anderen constructief en passend bij de situatie aanspreekt op hun gedrag en aan de hand van instructies of formats mondeling en/of schriftelijk communiceert met de opdrachtgever(s) op tenminste 3F/B2 niveau. De student houdt rekening met de eisen en wensen van de opdrachtgever.
-
-[comment]: # (Instructie: Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:)
-[comment]: # (- Je persoonlijke Gitgeschiedenis. Hierbij kijken we naar frequentie van Git commits, en kwaliteit van commit messages;)
-[comment]: # (- De documentatie van de Sprint Review en Retrospective. Hier focussen we in beginsel op jullie peer assessments.)
-[comment]: # (Bezijdens het bovengenoemde wegen we mee hoe vaak je aanwezig, en hoe je bijdrage was, bij de vaste Scrumsessies.)
-[comment]: # (In het bijzonder is hier je bijdrage aan de demo's relevant. We houden hier zelf notities over bij ten tijde van de demo's. Dit wordt ook teruggekoppeld tijdens de demo's, en hier moeten jullie dus zelf bij meeschrijven.)
-
-[comment]: # (Portfolio-items peilmoment 1)
-
----
-
-[comment]: # (Portfolio-items peilmoment 2)
-
----
-
-[comment]: # (Portfolio-items beslismoment)
-
-
-### 9 - (Zelf)lerend vermogen
-
-> Student formuleert volgens instructie persoonlijke ambities en kwaliteiten en gebruikt andermans feedback om beargumenteerde keuzes te maken met het oog op de studieloopbaan. Student reflecteert op het eigen handelen en/of het handelen van individuele teamleden, haalt hiervoor feedback op bij peers en docenten, stelt eigen sterktes en verbeterpunten vast en vertaalt verbeterpunten naar concrete acties.
-
-[comment]: # (Instructie: Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:)
-[comment]: # (- Bijgehouden feedback in Canvas. Noteer de feedback die je voor opdrachten krijgt ook in het commentaar voor Canvas;)
-[comment]: # (- De documentatie van de Sprint Review en Retrospective. Hier focussen we in beginsel op jullie peer assessments.)
-[comment]: # (Bezijdens het bovengenoemde kun je hier per bijeenkomst schriftelijk antwoord geven op de volgende vragen:)
-[comment]: # (- Wat voor een soort functie binnen de ICT zou je graag willen bekleden na je studie?)
-[comment]: # (- Is dit veranderd sinds de start van je opleiding en/of het vorige peilmoment?)
-[comment]: # (- Hoe heb je tot dusver taken kunnen oppakken binnen het project, die passen bij die functie?)
-[comment]: # (- Hoe kun je tot aan het volgende peilmoment meer van dat soort taken naar je toe trekken?)
-[comment]: # (- Wat zou voor jou het droombedrijf zijn om stage te lopen, en waarom?)
 
 [comment]: # (Portfolio-items peilmoment 1)
 
