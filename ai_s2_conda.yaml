@@ -1,13 +1,12 @@
-name: ai_s2
+name: ai_s2_conda
 channels:
   - https://repo.anaconda.com/pkgs/main
   - conda-forge
   - defaults
 dependencies:
-  - python=3.13
+  - python=3.14
   - gcc=14.*
   - pip=23.*
-  - python=3.*
   - postgresql=12.*
   - pip:
     - matplotlib==3.*
@@ -15,3 +14,4 @@ dependencies:
     - psycopg2==2.*
     - pytest==7.*
     - requests==2.*
+    - pygame-ce==2.5.*
