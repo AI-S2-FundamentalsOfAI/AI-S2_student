@@ -2,7 +2,7 @@
 
 
 (c) 2024 Hogeschool Utrecht<br>
-Auteur: David Isaacs Paternostro
+Auteur: David Isaacs Paternostro, aangepast door Nick Roumimper
 
 
 ## 1. Debugger basics
@@ -11,7 +11,9 @@ De debugger is grofweg een programma dat inzicht geeft in je code. Dit doet het 
 live bij te houden. Bovendien biedt het mogelijkheden om deze gegevens op elk moment in te zien en aan te passen.
 
 Je kan de debugger gebruiken op verschillende manieren, maar deze oefening richt zich op het gebruiken van de debugger in PyCharm.
-Voor gebruikers van Virtual Studio Code geldt dat alle vragen beantwoord kunnen worden, maar sommige opties hebben in VS Code een ander icoontje of staan op een andere plek.
+Voor gebruikers van Visual Studio Code geldt dat alle vragen beantwoord kunnen worden, maar sommige opties hebben in VS Code een ander icoontje of staan op een andere plek.
+
+Om deze opdracht te maken doorloop je alle oefeningen, en vul je de antwoorden in waar dat aangegeven staat. Je mag voor deze opdracht ofwel de "ruwe" .md inleveren, of een nette .pdf-export van deze Markdown maken voor een betere beoordeling.
 
 ### 1.1. Draaien
 
@@ -53,7 +55,7 @@ In deze toolbar vind je knoppen om het programma te:
 
 > **Oefening 2.**
 >
-> Plaats nog een breakpoint op regel 45 en draai de debugger opnieuw. De code stopt nu als het goed is op regel 40. Druk op ![continue](images/continue.png) om het programma door te laten draaien tot regel 45.
+> Plaats nog een breakpoint op regel 45 en (stop en) start de debugger opnieuw. De code stopt nu als het goed is op regel 40. Druk op ![continue](images/continue.png) om het programma door te laten draaien tot regel 45.
 > Druk nogmaals op ![continue](images/continue.png). Wacht even en druk op ![pause](images/pause.png). Waar in de code bevinden we ons? Je kan ervoor kiezen om het programma verder te laten draaien. Of, als je denkt dat
 > dit te lang gaat duren, druk je op ![stop](images/stop.png).
 
@@ -69,9 +71,11 @@ De andere knoppen laten we voor nu achterwege. Step into ![Step into](images/ste
 
 > **Oefening 3.**
 >
-> Start wederom de debugger. Wanneer je code op regel 40 is gestopt. Ga je met ![Step over](images/step_over.png) naar regel 41.
-> Vervolgens ga je met ![Step into](images/step_into.png) de methode `change_name()` in. Bekijk de code, wat valt je op? Als je de functie hebt bestudeerd,
+> Start wederom de debugger. Wanneer je code op regel 40 is gestopt, ga je met ![Step over](images/step_over.png) naar regel 41.
+> Vervolgens ga je met ![Step into](images/step_into.png) de methode `change_name()` in. Bekijk de code, wat valt je op? Zet je antwoord in deze Markdown, op de regel onderaan deze uitleg. Als je de functie hebt bestudeerd,
 > ga je uit de functie met ![Step out](images/step_out.png). Sluit vervolgens je sessie met ![Stop](images/stop.png).
+> 
+> Antwoord: _______________
 
 #### Frames window
 
@@ -106,25 +110,36 @@ nog niet de juiste waarde heeft, kan je zelfs tijdens diezelfde run nog waardes 
 Dit kan heel handig zijn als het veel moeite is om je programma tot die specifieke staat te laten komen. Denk bijvoorbeeld aan wanneer je miljoenen datapunten moet verwerken en het halverwege ergens fout lijkt te gaan.
 
 > **Oefening 5.**
+> Met de evaluation bar kun je de volgende dingen doen:
+> - Opzoeken wat een waarde is op het punt waar je uitvoering is gestopt. Typ hiervoor de variabele in waarvan je de waarde wilt weten en druk op Enter.
+> - Continu bijhouden ("watchen") welke waarde een variabele heeft terwijl je de debugger gebruikt. Typ hiervoor de variabele in waarvan je de waarde wilt bijhouden en druk op Ctrl+Shift+Enter.
+> - Een waarde handmatig veranderen waar je uitvoering is gestopt. Schrijf daarvoor bijv. `x = 7` en druk op Enter; hierna is de waarde van x voor deze uitvoering 7.
 >
 > Elke variabele heeft een plek in het geheugen van je computer. Dat adres kan je opvragen door de functie `id()` te gebruiken.
 >
-> Op regel 10 in de code staat `print(id(name))`: deze print het geheugenadres van de variabele `name`. Plaats een breakpoint op regel 40, en voeg een watch toe voor `id(name)`.
-> Dit kan door in de evaluation bar "adres=id(naam)" te typen en op enter te drukken. Bepaal nu het volgende:
-> - Doe op regel 40 een ![step into](images/step_into.png): is het adres nog beschikbaar in de huidige scope?
-> - Is het adres gelijk aan dat van name? Zo ja, wat betekent dat eigenlijk?
-> - Op regel 11 staat `name = "Davis"` wat zijn de adressen van `naam` en `name` nu respectievelijk? Verklaar de resultaten.
-> - Op regel 6 staat `x=2`, probeer te bepalen of `x` beschikbaar is in de scope van de `__init__()` call. Gebruik de evaluation bar.
-> - Ga terug naar de scope in de \<module\> call en bepaal of `name` nog beschikbaar is.
-> - Is de waarde van x aangepast? Probeer te beredeneren wat er is gebeurd.
-> - Wat zou er gebeuren als we `global x` bovenaan onze `__init__()` methode zouden toevoegen?
+> Plaats een breakpoint op regel 40, start de debugger, en voeg een watch toe voor `id(naam)`. Dit kan door in de evaluation bar "id(naam)" te typen en op Ctrl+Shift+Enter te drukken. Doorloop nu de volgende stappen en beantwoord de vragen in deze Markdown waar aangegeven:
+> - Doe op regel 40 een ![step into](images/step_into.png): is de waarde van naam nog beschikbaar in de huidige scope?
+> - Antwoord: _______________
+> - Bepaal het adres van de variabele genaamd `name`. Is op dit punt het adres gelijk aan dat van `naam`? Zo ja, wat betekent dat eigenlijk?
+> - Antwoord: _______________
+> - Op regel 11 staat `name = "Davis"`. Zet twee stappen vooruit, waardoor deze instructie wordt uitgevoerd. Wat zijn de adressen van `naam` en `name` nu respectievelijk? Verklaar de resultaten.
+> - Antwoord: _______________
+> - Op regel 6 staat `x=2`. Probeer te bepalen of `x` beschikbaar is in de scope van de `__init__()` call. Gebruik de evaluation bar.
+> - Antwoord: _______________
+> - Ga terug naar de <module>-scope (dwz. terug naar de scope van regel 40) en bepaal of `name` nog beschikbaar is.
+> - Antwoord: _______________
+> - Is de waarde van x in de <module>-scope veranderd na deze uitvoering? Probeer te beredeneren wat er is gebeurd.
+> - Antwoord: _______________
+> - Wat zou er gebeuren als we `global x` bovenaan onze `__init__()` methode zouden toevoegen? Je mag dit uiteraard testen door het te doen, maar je mag het ook beredeneren.
+> - Antwoord: _______________
+> - Stop tot slot de debugger, als je die niet al hebt gestopt.
 
 > **Oefening 6.**
 >
-> *Conditional breakpoints* zijn breakpoints die alleen getriggerd worden onder bepaalde omstandigheden. Door met rechter
-> muisknop op een breakpoint te klikken kan je een conditie toevoegen.
+> *Conditional breakpoints* zijn breakpoints die alleen getriggerd worden onder bepaalde omstandigheden. Door met de rechtermuisknop op een breakpoint te klikken, kun je in het venstertje dat verschijnt een conditie in Python invoeren.
 >
-> - Maak gebruik van een conditional breakpoint om erachter te komen wat de waarde van `what_am_i` is op het moment dat `v1` en `v2` voor het eerst gelijk zijn aan elkaar.
+> - Maak gebruik van een conditional breakpoint om de uitvoering te stoppen op regel 32 wanneer `v1` en `v2` voor het eerst gelijk zijn aan elkaar.
 > - Wat is de waarde van `what_am_i` op dit moment?
+> - Antwoord: _______________
 > - Na hoeveel iteraties kwam dit voor?
-> - Ga door tot regel 36, hier staat de conditie `if self.name == "David":` en pas `self.name` aan zodat deze gelijk is aan `David` met behulp van de evaluation bar.
+> - Antwoord: _______________
